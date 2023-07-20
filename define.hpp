@@ -1,0 +1,21 @@
+
+#define UP  "up"
+#define DOWN  "down"
+#define LEFT  "left"
+#define RIGHT "right"
+#define SPACESHIP_SPEED 20
+#define SPACESHIP_WIDTH 100
+#define SPACESHIP_HEIGHT 100
+#define BULLET_SPEED 15
+#define BULLET_WIDTH 5
+#define BULLET_HEIGHT 5
+#define ENEMY_RADIUS 20
+#define ENEMY_SPEED 15
+#define WINDOW_WIDTH 1280
+#define WINDOW_HEIGHT 720
+#define SPACESHIP_WIDTH 100
+#define SPACESHIP_HEIGHT 100
+#define SPACESHIP_ROW 620
+#define SPACESHIP_COLUMN 700
+#define FIRST_ENEMY_SHOT 50
+#define SECOND_ENEMY_SHOT 65

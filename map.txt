@@ -1,0 +1,14 @@
+4 5
+3
+.E..E
+E..MM
+MES..
+.....
+ES.EM
+.M..M
+M...S
+.....
+EEEEM
+MMMME
+S..S.
+.....
